@@ -1,4 +1,4 @@
-# Advanced Portfolio for Balakrishna
+# Advanced Portfolio for Bala
 
 A recruiter-focused portfolio built with **Next.js + TypeScript + Tailwind CSS + Framer Motion**.
 
@@ -14,7 +14,7 @@ A recruiter-focused portfolio built with **Next.js + TypeScript + Tailwind CSS +
 - GitHub Pages deployment workflow
 
 ## Project data already added
-This portfolio already includes content based on your resume and the projects you shared.
+This portfolio already includes content based on resume and the projects you shared.
 
 ## Before running
 Update these placeholders in `lib/data.ts`:
@@ -24,7 +24,7 @@ Update these placeholders in `lib/data.ts`:
 - `github`
 - `location` if needed
 
-Your resume file is already included here:
+Resume file is already included here:
 `public/resume/Balakrishna_Resume.docx`
 
 ## Run in Cursor
