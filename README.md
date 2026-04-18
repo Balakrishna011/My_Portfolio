@@ -1,6 +1,6 @@
-# Advanced Portfolio for Bala
+# Advanced Portfolio
 
-A recruiter-focused portfolio built with **Next.js + TypeScript + Tailwind CSS + Framer Motion**.
+Portfolio built with **Next.js + TypeScript + Tailwind CSS + Framer Motion**.
 
 ## What is included
 - Advanced hero section
